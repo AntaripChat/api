@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Dr.Chatterjee",
+        "Subject":"Math",
+        "address":{
+            "city":"kolkata",
+            "pin":111133
+        }
+    },
+    {
+        "Name":"Dr.Sen",
+        "Subject":"English",
+        "address":{
+            "city":"kolkata",
+            "pin":111132
+        }
+    },
+    {
+        "Name":"Sayan Samanta",
+        "Subject":"History",
+        "address":{
+            "city":"kolkata",
+            "pin":111613
+        }
+    }
+]

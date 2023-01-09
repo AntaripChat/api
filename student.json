@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Antarip Chatterjee",
+        "Class":12,
+        "address":{
+            "city":"kolkata",
+            "pin":111111
+        }
+    },
+    {
+        "Name":"Arko Chatterjee",
+        "Class":11,
+        "address":{
+            "city":"kolkata",
+            "pin":111112
+        }
+    },
+    {
+        "Name":"Sayan Samanta",
+        "Class":12,
+        "address":{
+            "city":"kolkata",
+            "pin":111113
+        }
+    }
+]
